@@ -50,11 +50,15 @@ h2 {
 
 #nav-list a {
   font-size: 1.2em;
-  text-align: center;
 }
 
 #nav-list a:hover {
   background-color: #e6e6e6;
+}
+
+#nav-list h4 {
+  margin-top: 2px;
+  margin-bottom: 3px;
 }
 
 /* END HOME PAGE */
